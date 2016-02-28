@@ -8,6 +8,9 @@ Still waiting for four people to [vote on a morning or afternoon](http://doodle.
 ## Session 02: R, Anatomy of a Programming Language
 [Homework 02, due by Session 03](https://github.com/UTHSCSA-CIRD/TSCI-5050/raw/master/TSCI5050_HW02.doc)
 
+Our second class is now up, https://youtu.be/onl9iWI9lNQ
+[![Settion 02](http://img.youtube.com/vi/onl9iWI9lNQ/0.jpg)](http://www.youtube.com/watch?v=onl9iWI9lNQ "Introduction to Data Science, Session 02")
+
 ## Session 01: Introduction
 
 An excerpt of our first class is now up: https://youtu.be/M21l3RMKHJc
